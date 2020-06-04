@@ -56,7 +56,7 @@ Functions
      *do_handshake_on_connect*.
 
    Depending on the underlying module implementation in a particular
-   `MicroPython port`, some or all keyword arguments above may be not supported.
+   :term:`MicroPython port`, some or all keyword arguments above may be not supported.
 
 .. warning::
 
